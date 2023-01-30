@@ -10,9 +10,6 @@ About me:
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/andr%C3%A9ia-barbosa/),
 - ⚡ Fun fact Chemical Engineer
 
-
- <img align="right" alt="andreia-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
   
   ##
 
